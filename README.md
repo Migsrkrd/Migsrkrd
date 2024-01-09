@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
+<link rel="stylesheet" type="text/css" href="path/to/your/styles.css">
+
+<h1 align="center" class=""testing>Hi 👋, I'm Mike</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=migsrkrd&label=Profile%20views&color=0e75b6&style=flat" alt="migsrkrd" /> </p>
