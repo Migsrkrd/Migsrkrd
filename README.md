@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Coding Tutor]([https://github.com/Migsrkrd/Coding-Tutor](https://github.com/Migsrkrd/C--101-Beginners))
 
-- 👯 I’m looking to collaborate on [C# for Beginners](https://github.com/Migsrkrd/Coding-Tutor)
+- 👯 I’m looking to collaborate on [C# for Beginners](https://github.com/Migsrkrd/C--101-Beginners)
 
 - 👨‍💻 All of my projects are available at [https://main--michael-reickerd-web-dev-portfolio.netlify.app/](https://main--michael-reickerd-web-dev-portfolio.netlify.app/)
 
