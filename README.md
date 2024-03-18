@@ -12,9 +12,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migsrkrd&theme=radical" alt="migsrkrd" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Tutor](https://github.com/Migsrkrd/Coding-Tutor)
+- 🔭 I’m currently working on [Coding Tutor]([https://github.com/Migsrkrd/Coding-Tutor](https://github.com/Migsrkrd/C--101-Beginners))
 
-- 👯 I’m looking to collaborate on [Coding Tutor](https://github.com/Migsrkrd/Coding-Tutor)
+- 👯 I’m looking to collaborate on [C# for Beginners](https://github.com/Migsrkrd/Coding-Tutor)
 
 - 👨‍💻 All of my projects are available at [https://main--michael-reickerd-web-dev-portfolio.netlify.app/](https://main--michael-reickerd-web-dev-portfolio.netlify.app/)
 
