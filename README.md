@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=migsrkrd&theme=radical" alt="migsrkrd" /></a> </p>
 
-- 🔭 I’m currently working on [Coding Tutor]([https://github.com/Migsrkrd/Coding-Tutor](https://github.com/Migsrkrd/C--101-Beginners))
+- 🔭 I’m currently working on [C# for Beginners](https://github.com/Migsrkrd/C--101-Beginners)
 
 - 👯 I’m looking to collaborate on [C# for Beginners](https://github.com/Migsrkrd/C--101-Beginners)
 
